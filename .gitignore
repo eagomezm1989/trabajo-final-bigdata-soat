@@ -1,0 +1,5 @@
+.venv/
+datos_anonimizados/
+sal_anonimizacion.txt
+*.txt
+*.xlsx

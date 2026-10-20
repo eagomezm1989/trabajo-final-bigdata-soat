@@ -3,8 +3,9 @@ datos_anonimizados/
 sal_anonimizacion.txt
 *.txt
 *.xlsx
-   *.pptx
-   *.pdf
-   *.docx
-   .Rhistory
-   
+*.pptx
+*.pdf
+*.docx
+.Rhistory
+salidas/
+
